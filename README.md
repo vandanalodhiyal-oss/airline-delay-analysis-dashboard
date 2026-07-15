@@ -60,6 +60,6 @@ Visuals: Comparative annual volume bar charts, segmented stacked horizontal char
 
 ---
 
-## Tech Stack and Color Palette
-*   Data Processing: Python (Pandas/NumPy)
+## Tech Stack 
+*   Data Processing: Python (Pandas)
 *   BI and Analytics Engine: Microsoft Power BI Desktop
